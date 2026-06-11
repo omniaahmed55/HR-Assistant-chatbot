@@ -1,10 +1,30 @@
-# HR-Assistant-chatbot
-An AI-powered HR chatbot that allows HR users to upload candidate CVs easily. The chatbot can understand and extract information from uploaded resumes. It enables HR to ask any questions about a candidate and get instant, accurate answers from the CV data.
-
 # HR Assistant Chatbot
 
 🚀 Live Demo:
 https://your-app-name.streamlit.app
 
-## Project Overview
-HR Assistant Chatbot allows HR professionals to upload CVs and ask questions about candidates using RAG and LLM technology.
+## Overview
+
+HR Assistant Chatbot is a RAG-powered application that allows HR professionals to upload candidate CVs and ask questions about their skills, experience, education, and background using Large Language Models (LLMs).
+
+## Demo
+
+![HR Assistant Chatbot](Screenshot 2026-06-11 160426.png)
+
+## Features
+
+- Upload PDF resumes
+- Ask questions about candidates
+- Retrieval-Augmented Generation (RAG)
+- ChromaDB vector database
+- Groq LLM integration
+- Streamlit user interface
+
+## Technologies Used
+
+- Python
+- Streamlit
+- ChromaDB
+- Sentence Transformers
+- Groq API
+- RAG Architecture
