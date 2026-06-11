@@ -8,8 +8,7 @@ https://your-app-name.streamlit.app
 HR Assistant Chatbot is a RAG-powered application that allows HR professionals to upload candidate CVs and ask questions about their skills, experience, education, and background using Large Language Models (LLMs).
 
 ## Demo
-
-![HR Assistant Chatbot](Screenshot 2026-06-11 160426.png)
+![HR Assistant Chatbot](./Screenshot%202026-06-11%20160426.png)
 
 ## Features
 
